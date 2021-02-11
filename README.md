@@ -3,7 +3,7 @@
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-NLP is defined as a branch of AI that helps computers understand, interpret, and manipulate human language. It is commonly used in technologies such as chatbots, virtual assistants, and modern spam detection. There are many opportunities in NLP due to the sheer volume of data and scale of NLP related tasks. The purpose of this project is to use NLP to classify Yelp reviews into positive reviews (4-5 stars) and negative reviews (1-2 stars). 
+NLP is defined as a branch of AI that helps computers understand, interpret, and manipulate human language. It is commonly used in technologies such as chatbots, virtual assistants, and modern spam detection. There are many opportunities in NLP due to the sheer volume of data which can be used for NLP related tasks. The purpose of this project is to use NLP to classify Yelp reviews into positive reviews (4-5 stars) and negative reviews (1-2 stars). 
 
 ### Methods Used
 * Data Visualization
@@ -31,3 +31,13 @@ The Yelp dataset contains a subset of Yelp's businesses, reviews, and user data 
 ### Dataset Location
 The Raw Data can be found [here](https://www.kaggle.com/yelp-dataset/yelp-dataset)
 
+## Featured Notebooks/Analysis/Deliverables
+* [Notebook](https://github.com/lukemonington/yelp_reviews/blob/main/main_ai.ipynb)
+
+
+## Contributing Members
+
+**[Luke Monington](https://github.com/lukemonington)**
+
+## Contact
+* I can be reached at lukemonington@aol.com.
