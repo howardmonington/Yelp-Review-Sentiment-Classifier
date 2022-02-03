@@ -1,4 +1,4 @@
-# Positive/Negative Yelp Review NLP Classifier
+# Yelp Review Sentiment Classifier
 
 #### -- Project Status: [Completed]
 
